@@ -4,7 +4,8 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
 ## Highlights
 - 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
 - 🧠 Concept I learned: *(short note)*
-- 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
+- 📝 My First Reflection: [Reflection #1](./posts/first_reflection.md)
+- 📝 My Second Reflection: [Reflection #1](./posts/second_reflection.md)
 
 ## About me
 A short intro (interests, goals, tools I’m learning).
