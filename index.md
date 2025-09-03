@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name>
+# Hi, I'm Ali G!
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
