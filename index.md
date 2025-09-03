@@ -11,21 +11,3 @@ A short intro (interests, goals, tools I’m learning).
 
 ---
 *Update this page by editing `index.md` in your repository.*
-
-
-# size1
-## size2
-### size3
- - item
- - item
- - item
-
----
-random `code block`
-```
-test
-```
-*very cool*
-**bold text**
-***cool bold text***
-[hyperlink](https://google.com/)
