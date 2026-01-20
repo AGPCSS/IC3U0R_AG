@@ -20,7 +20,7 @@ void updateRedLight() {
 }
 ```
 
-This function runs every frame (in the draw method) and constantly updates and registers the red light. How it works is it calculates if the red light has already passed (nextRedLight + redLightLength * 1000 < millis()) or if the game hasn’t initialized a time yet (nextRedLight == 0). If any of those conditions are true, the game uses the random method to generate a random next time depending on the redLightFrequency which is dictated by the game's difficulty. The very last expression in the method calculates whether or not the current time is in between nextRedLight and when the red light ends (nextRedLight + redLightLength * 1000 > millis()). Then it sets the boolean variable redLight accordingly. 
+This function runs every frame (in the draw method) and constantly updates and registers the red light. How it works is it calculates if the red light has already passed (`nextRedLight + redLightLength * 1000 < millis()`) or if the game hasn’t initialized a time yet (`nextRedLight == 0`). If any of those conditions are true, the game uses the random method to generate a random next time depending on the redLightFrequency which is dictated by the game's difficulty. The very last expression in the method calculates whether or not the current time is in between `nextRedLight` and when the red light ends (`nextRedLight + redLightLength * 1000 > millis()`). Then it sets the boolean variable `redLight` accordingly. 
 
 ```
   if (redLight && millis() > nextRedLight + redLightMercy) {
