@@ -8,8 +8,8 @@ Check out my [Planning Document](./kornyminesweeper.pdf)!
 ---
 
 ## Learning Log
-- Day 1
-- Day 2
-- Day 3
-- Day 4
-- Day 5
+- [Day 1](./learninglog/day1.md)
+- [Day 2](./learninglog/day2.md)
+- [Day 3](./learninglog/day3.md)
+- [Day 4](./learninglog/day4.md)
+- [Day 5](./learninglog/day5.md)
