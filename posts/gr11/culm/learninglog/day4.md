@@ -35,7 +35,7 @@ void loadImages(ArrayList list, String prefix, int max) {
 }
 ```
 
-This function allows me to iterate (repetition) through 1 to n and append the image to an array for later use. An example of this is loadImages(Images400x400, "400x400_", 4). Which will append all images with the prefix 400x400_ to an array. 
+This function allows me to iterate (repetition) through 1 to n and append the image to an array for later use. An example of this is `loadImages(Images400x400, "400x400_", 4)`. Which will append all images with the prefix 400x400_ to an array. 
 
 I also added a new gamemode; fog of war. The logic to make this took some thinking and even required some math to be done. In the logic for this game mode I used the interpolation formula: 
 
