@@ -3,7 +3,7 @@
 
 This was our final assignment of the year, which I spent the most time and effort on and it paid off very well!
 
-Check out my [Planning Document](./kornygamedocumentation.pdf)!
+Check out my [Planning Document](./kornyminesweeper.pdf)!
 
 ---
 
@@ -13,10 +13,3 @@ Check out my [Planning Document](./kornygamedocumentation.pdf)!
 - Day 3
 - Day 4
 - Day 5
-
----
-
-## Heres showcase!
-![](showcase.mov)
-
----
