@@ -1,3 +1,4 @@
+[back](../index.md)
 # Learning Log - Day 1
 ```
 PImage logo; // The games logo
