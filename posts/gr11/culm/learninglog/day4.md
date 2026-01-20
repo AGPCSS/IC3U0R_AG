@@ -1,5 +1,5 @@
+[back](../index)
 # Learning Log - Day 4
-
 Today I was able to put the images and assets I made yesterday into use and made my game look more professional. To do this, I had to swap out only a little bit of code and change up some logic like how I render the cells in the grid. I did however make a new function that I’m quite proud of.
 
 ```
