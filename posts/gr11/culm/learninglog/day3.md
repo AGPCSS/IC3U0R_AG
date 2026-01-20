@@ -1,3 +1,4 @@
+[back](../index)
 # Learning Log - Day 3
 Today, I completed the main gameplay and also added one of my three gamemodes, inverted. To start with, I implemented the usage of switch cases (selection structure) multiple times throughout my code. This was done to simplify my code and make it look better rather than having multiple else if statements (to fit my taste in “good looking code”).
 
