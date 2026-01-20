@@ -1,3 +1,4 @@
+[back](../index)
 # Learning Log - Day 5
 
 Today I implemented the Green Light Red Light gamemode. This gamemode is heavily reliant on time so I had to think of some logic for how the red light will work and ended up with this function.
