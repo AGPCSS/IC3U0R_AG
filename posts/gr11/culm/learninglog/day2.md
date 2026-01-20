@@ -1,3 +1,4 @@
+[back](../index)
 # Learning Log - Day 2
 Learning Log 2
 Today, I got to finish a huge part of the main gameplay. I completed bomb generation which used repetition (a while loop) to do. I changed my array variables to ArrayLists for dynamic use. And wrote plenty of new custom functions that will help me optimize code and lower the amount of lines.
